@@ -18,4 +18,4 @@ Our model results is:
 81% recall for class 0 and 94% of class 1
 
 Our results tell us that final model can detect 83% of heart attacks, classifing correctly each patient with symphtoms as a potential heart attack with 94% probability (recall).
-Kaggle competition worksheet (link)[https://www.kaggle.com/tararuj4/heart-stroke-classific-87-acc-with-keras-pl]
+Kaggle competition worksheet [link](https://www.kaggle.com/tararuj4/heart-stroke-classific-87-acc-with-keras-pl)
